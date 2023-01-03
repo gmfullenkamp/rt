@@ -9,12 +9,12 @@
 
 #### Raspberry Pi 4 ####
 
-* Configuration: Raspberry Pi OS Lite (32-bit)
+* Configuration: Raspberry Pi OS (64-bit)
 * Dependencies: bash.sh
 
 #### Python ####
 
-* Configuration: Python 3.10
+* Configuration: Python 3.9.2
 * Dependencies: requirements.txt
 * Deployment instructions: TBD
 
