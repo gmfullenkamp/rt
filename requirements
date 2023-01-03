@@ -1,0 +1,4 @@
+gpiozero==1.6.2
+opencv-python==4.7.0.68
+picamera==1.13
+tensorflow==2.11.0
