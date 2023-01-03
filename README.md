@@ -9,7 +9,7 @@
 
 #### Raspberry Pi 4 ####
 
-* Configuration: DietPi_RPi-ARMv8-Bullseye.img
+* Configuration: Raspberry Pi OS Lite (32-bit)
 * Dependencies: bash.sh
 
 #### Python ####
