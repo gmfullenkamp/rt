@@ -3,3 +3,6 @@
 
 # JetBrains IDE
 .idea/
+
+# Sound files
+.wav
